@@ -1,0 +1,213 @@
+Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_Vaccine,Measles_Mumps_Rubella_Vaccine,Diphtheria_And_Tetanus_Toxoids_And_Acellular_Pertussis_Vaccine,HepatitisB,Varicella_1Dose,Varicella_Doses
+2011,1,Alabama,73190,100,Census,?93.6,?93.6,?93.6,NReq,?93.6,NReq
+2011,2,Alaska,10286,7.291,Non-random Cluster Sample,NA,NA,NA,NA,NA,NA
+2011,4,Arizona,88293,96.853,Census,94.949,94.669,94.85,96.313,96.923,NReq
+2011,5,Arkansas,38754,92.171,Census,84.331,94.9,84.092,98.057,NA,95.398
+2011,6,California,542544,97.577,Census,93.176,93.217,92.955,95.664,96.05,NReq
+2011,8,Colorado,70142,0.453,Simple Random Sample,87.4212,86.79245,85.5346,93.0818,NA,83.9622
+2011,9,Connecticut,45695,100,Census,97.748,97.431,97.763,97.995,NA,97.083
+2011,10,Delaware,11327,7.354,2-stage Cluster Sample,?96.9,?96.9,?96.9,?96.9,NA,?96.9
+2011,11,District of Columbia,6854,100,Census,92.953,94.047,91.1,96.644,NA,93.537
+2011,12,Florida,225532,100,Census,?92.6,?92.6,?92.6,?92.6,NA,?92.6
+2011,13,Georgia,143065,1.877,2-stage Cluster Sample,96.717,96.616,96.717,96.717,NA,96.616
+2011,15,Hawaii,19443,7.746,2-stage Cluster Sample,NA,NA,NA,NA,NA,NReq
+2011,0,HP 2020 Target,NA,NA,NA,95,95,95,95,NA,95
+2011,16,Idaho,22762,100,Census,89.601,89.214,89,92.329,NA,85.797
+2011,17,Illinois,163311,100,Census,96.17,97.331,96.43,NReq,97.966,NReq
+2011,18,Indiana,83416,67.543,Voluntary Response,90.412,93.302,90.2,93.19,NA,91.902
+2011,19,Iowa,40978,100,Census,?91.1,?91.1,?91.1,?91.1,NA,?91.1
+2011,20,Kansas,38402,52.745,"Stratified 1-stage sample  (Public),  Census (Private)",96.9,88.2,88,95.8,NA,85.9
+2011,21,Kentucky,58185,91.847,Census,95.031,92.044,93.727,93.333,75.737,NReq
+2011,22,Louisiana,69013,100,Census,99.564,98.096,98.902,99.255,NA,97.224
+2011,23,Maine,13829,97.006,Census,96.123,93.037,96.611,NReq,94.941,NReq
+2011,24,Maryland,72957,67.196,Voluntary Response,99.68,98.746,99.558,99.56,99.714,NReq
+2011,25,Massachusetts,79551,97.4658,Census,93.3385,94.153,92.5,97.762,NA,92.71
+2011,26,Michigan,124962,100,Census,95.864,95.035,95.609,96.785,NA,93.161
+2011,27,Minnesota,71213,99.208,Census,95.837,95.673,95.5,97.46,NA,94.862
+2011,28,Mississippi,44912,100,Census,?99.2,?99.2,?99.2,?99.2,NA,?99.2
+2011,29,Missouri,75240,4.682,2-stage Cluster Sample,97.186,96.773,97.069,95.999,NA,95.117
+2011,30,Montana,12128,100,Census,95.679,95.028,94.772,NReq,NReq,NReq
+2011,31,Nebraska,26715,96.552,Census,99.54,98.969,99.7,99.2822,NA,96.76
+2011,32,Nevada,36557,5.238,2-stage Cluster Sample,98.33,95.25,97.246,97.768,NA,90.338
+2011,33,New Hampshire,13022,100,Census,NA,NA,NA,NA,NA,NA
+2011,34,New Jersey,118669,96.627,Census,NA,NA,NA,NA,NA,NReq
+2011,35,New Mexico,29159,2.013,2-stage Cluster Sample,97.615,95.741,96.934,97.274,NA,94.208
+2011,36,New York State,236016,100,Census,98.403,96.945,97.9,98.246,98.422,NReq
+2011,37,North Carolina,128854,95.373,Census,97.337,97.166,97.043,97.956,98.112,NReq
+2011,38,North Dakota,8412,5.789,Convenient ,90.554,90.554,91.17,91.376,NA,88.912
+2011,39,Ohio,146144,94.5,Convenient ,96.2,96.1,95.9,99,NA,95.4
+2011,40,Oklahoma,52987,90.9,Census,94.648,94.991,94.6,97.713,97.815,NReq
+2011,41,Oregon,45855,100,Census,93.961,93.964,93.7,94.644,94.999,NReq
+2011,42,Pennsylvania,148042,98.96,Census,95.512,86.913,NReq||,94.356,NA,85.084
+2011,44,Rhode Island,12552,13.902,2-stage Cluster Sample,92.615,91.735,93.4,93.139,NA,91.252
+2011,45,South Carolina,59307,10.69,1-stage Cluster Sample,96.668,94.527,96.523,96.559,97.142,NReq
+2011,46,South Dakota,12127,100,Census,97.155,97.411,97.477,95.432,NA,95.489
+2011,47,Tennessee,83950,99.914,Census,?97.3,?97.3,?97.3,?97.3,NA,?97.3
+2011,48,Texas,388178,100,Census,99.252,99.308,99.3,99.657,NA,99.159
+2011,0,U.S. Median,NA,NA,NA,95.9,94.8,95.5,96.6,97.1,92.9
+2011,49,Utah,53800,100,Census,98.113,97.998,97.651,99.117,99.5,NReq
+2011,50,Vermont,6548,100,Census,92.731,92.929,92.715,95.556,NA,90.257
+2011,51,Virginia,101121,4.345,2-stage Cluster Sample,93.026,92.956,98.627,92.69,NA,90.609
+2011,53,Washington,85134,89.118,Voluntary Response,91.042,91.813,90.9,93.007,NA,90.385
+2011,54,West Virginia,22449,94.877,Convenient ,92.646,91.967,92.553,93.253,NA,88.871
+2011,55,Wisconsin,70672,2.306,2-stage Cluster Sample,96.89,93.097,87.735,96.22,NA,91.033
+2011,56,Wyoming,NA,NA,Not conducted,NA,NA,NA,NA,NA,NA
+2012,1,Alabama,72929,100,Census,NA,?92.8,?92.8,NA,?92.8,NReq
+2012,2,Alaska,10319,97.80017444,Census,NA,NA,NA,NA,NA,NA
+2012,4,Arizona,90054,97.61809581,Census,NA,94.5,94.6,NA,96.8,NReq
+2012,5,Arkansas,43212,96.2741831,Census,NA,85.9,82.9,NA,NA,84.8
+2012,6,California,535523,99.04672628,Census,NA,92.7,92.5,NA,95.6,NReq
+2012,8,Colorado,70657,0.495350779,Simple Random Sample,NA,85.7,82.9,NA,NA,84.6
+2012,9,Connecticut,41604,100,Census,NA,97.1,97.2,NA,NA,96.8
+2012,10,Delaware,11997,7.785279653,2-stage Cluster Sample,NA,?95.7,?95.7,NA,NA,?95.7
+2012,11,District of Columbia,7842,100,Census,NA,91.8,91.6,NA,NA,91.5
+2012,12,Florida,234628,100,Census,NA,?92.1 ,?92.1,NA,NA,?92.1
+2012,13,Georgia,142732,2.373679343,2-stage Cluster Sample,NA,?95.1,?95.1,NA,NA,?95.1
+2012,15,Hawaii,20104,6.660366096,2-stage Cluster Sample,NA,NA,NA,NA,NA,NReq
+2012,0,HP 2020 Target,NA,NA,NA,NA,95,95,NA,NA,95
+2012,16,Idaho,23888,100,Census,NA,88.4,88.3,NA,NA,86.6
+2012,17,Illinois,166884,100,Census,NA,95.5,94.6,NA,96.6,NReq
+2012,18,Indiana,86983,83.38640884,Voluntary Response,NA,95.4,90.1,NA,NA,93.9
+2012,19,Iowa,41701,99.90887509,Census,NA,?90.5,?90.5,NA,NA,?90.5
+2012,20,Kansas,40738,31.77131916,"Stratified 1-stage sample  (Public),  Census (Private)",NA,90,88.9,NA,NA,88.4
+2012,21,Kentucky,58466,97.22915883,Census,NA,92.4,94.1,NA,NA,89.5
+2012,22,Louisiana,68874,100,Census,NA,96.6,98.3,NA,NA,96.5
+2012,23,Maine,14313,94.55040872,Census,NA,91.3,95.2,NA,95.1,NReq
+2012,24,Maryland,75007,84.27480102,Voluntary Response,NA,98.2,99.4,NA,99.6,NReq
+2012,25,Massachusetts,79661,97.62242503,Census,NA,94.8,93.1,NA,NA,93.6
+2012,26,Michigan,124662,100,Census,NA,94.4,95.1,NA,NA,92.9
+2012,27,Minnesota,73310,100,Census,NA,96.3,96.7,NA,NA,95.9
+2012,28,Mississippi,46595,100,Census,NA,?99.9,?99.9,NA,NA,?99.9
+2012,29,Missouri,78416,5.909508264,2-stage Cluster Sample,NA,96.7,96.5,NA,NA,96.1
+2012,30,Montana,12516,95.79737935,Census,NA,94.8,94.5,NA,NReq,NReq
+2012,31,Nebraska,24999,96.61586463,Census,NA,96,95.5,NA,NA,94.7
+2012,32,Nevada,36070,4.327696146,2-stage Cluster Sample,NA,93.6,96.6,NA,NA,92.2
+2012,33,New Hampshire,12943,99.19647686,Census,NA,NA,NA,NA,NA,NA
+2012,34,New Jersey,122516,96.67880114,Census,NA,?97.0,?97.0,NA,?97.0,NReq
+2012,35,New Mexico,29279,3.316370095,2-stage Cluster Sample,NA,93.9,96.6,NA,NA,94
+2012,36,New York State,239484,100,Census,NA,96.6,98.4,NA,98.4,NReq
+2012,37,North Carolina,130612,97.34940128,Census,NA,97.3,97.2,NA,98,NReq
+2012,38,North Dakota,9503,4.903714616,2-stage Cluster Sample,NA,89.9,89,NA,NA,88.5
+2012,39,Ohio,163687,86.85478993,Census,NA,96.3,96.3,NA,NA,95.7
+2012,40,Oklahoma,56943,95.50076392,Census,NA,90.5,90.2,NA,92.8,NReq
+2012,41,Oregon,47102,100,Census,NA,93.5,93.4,NA,94.5,NReq
+2012,42,Pennsylvania,151364,97.50138738,Census,NA,87,NReq|| ,NA,NA,85.7
+2012,44,Rhode Island,12552,75.24697259,Voluntary Response,NA,94.2,95.2,NA,NA,94.2
+2012,45,South Carolina,61799,17.86274859,1-Stage Cluster Sample,NA,?90.9,?90.9,NA,?90.9,NReq
+2012,46,South Dakota,12468,100,Census,NA,97.9,97.7,NA,NA,96
+2012,47,Tennessee,85801,96.95458095,Census,NA,?94.5,?94.5,NA,NA,?94.5
+2012,48,Texas,414688,96.58104406,Census,NA,97.5,97.3,NA,NA,97.2
+2012,0,U.S. Median,NA,NA,NA,NA,94.5,95.1,NA,96.6,93.8
+2012,49,Utah,54605,100,Census,NA,96.3,97.8,NA,99.6,NReq
+2012,50,Vermont,6792,100,Census,NA,92.8,92.6,NA,NA,90.1
+2012,51,Virginia,104826,4.196477973,2-stage Cluster Sample,NA,93.1,98.5,NA,NA,91.2
+2012,53,Washington,87773,94.65553188,Census,NA,91.7,92.4,NA,NA,90.3
+2012,54,West Virginia,22588,86.5459536,Voluntary Response,NA,96.3,96.3,NA,NA,96.2
+2012,55,Wisconsin,72416,1.846277066,2-stage Cluster Sample,NA,92.8,96.1,NA,NA,91.1
+2012,56,Wyoming,8133,100,Census,NA,97.5,97.4,NA,NA,97
+2013,1,Alabama,76927,100,Census,NA,?92.0,?92.0,NA,?92.0,NReq
+2013,2,Alaska,10222,9.254549012,Stratified  2-stage cluster sample,NA,94.4,96,NA,NA,92.5
+2013,4,Arizona,89606,95.82059237,Census,NA,93.9,94.3,NA,96.4,NReq
+2013,5,Arkansas,42649,96.29299632,Census,NA,86.5,83.3,NA,NA,85.4
+2013,6,California,548606,97.27928604,Census,NA,92.3,92.2,NA,95.3,NReq
+2013,8,Colorado,69904,0.500686656,Random Sample,NA,81.7,80.9,NA,NA,81.7
+2013,9,Connecticut,40978,100,Census,NA,96.9,97,NA,NA,96.7
+2013,10,Delaware,11997,12.15303826,Stratified  2-stage cluster sample,NA,?96.4,?96.4,NA,NA,?96.4
+2013,11,District of Columbia,7856,100,Census,NA,89,88.7,NA,NA,88.8
+2013,12,Florida,233797,100,Census,NA,?93.2,?93.2,NA,NA,?93.2
+2013,13,Georgia,143988,100,Census,NA,?94.0,?94.0,NA,NA,?94.0
+2013,15,Hawaii,20056,5.355005983,Stratified  2-stage cluster sample,NA,NA,NA,NA,NA,NReq
+2013,0,HP 2020 Target,NA,NA,NA,NA,95,95,NA,NA,95
+2013,16,Idaho,23934,100,Census,NA,88.2,88,NA,NA,86.5
+2013,17,Illinois,163316,100,Census,NA,94.7,95,NA,96.6,NReq
+2013,18,Indiana,87193,70.34509651,Voluntary response,NA,92.9,81.8,NA,NA,90.2
+2013,19,Iowa,43728,94.55954995,Census,NA,?91.0,?91.0,NA,NA,?91.0
+2013,20,Kansas,41107,29.02425378,"Stratified 1-stage sample  (Public),  Census (Private)",NA,86.94,87.6,NA,NA,85.5
+2013,21,Kentucky,57857,100,Census,NA,92.6,93.9,NA,NA,91.9
+2013,22,Louisiana,63976,100,Census,NA,96.8,98.3,NA,NA,96.1
+2013,23,Maine,15441,82.35217926,Voluntary response,NA,89.9,94.4,NA,93.8,NReq
+2013,24,Maryland,75659,96.94682721,Census,NA,97.6,99,NA,99,NReq
+2013,25,Massachusetts,79894,97.86467069,Census,NA,95.1,93,NA,NA,93.9
+2013,26,Michigan,120297,100,Census,NA,97.5,94.8,NA,NA,93
+2013,27,Minnesota,72087,98.45325787,Census,NA,93.4,96.6,NA,NA,92.6
+2013,28,Mississippi,45719,100,Census,NA,?99.7,?99.7,NA,NA,?99.7
+2013,29,Missouri,78140,100,Census,NA,95.5,96,NA,NA,94.6
+2013,30,Montana,12855,95.36367172,Census,NA,93.7,94.8,NA,NReq,NReq
+2013,31,Nebraska,27000,97.34074074,Census,NA,96.6,96.8,NA,NA,94.9
+2013,32,Nevada,35782,3.113297189,Stratified  2-stage cluster sample,NA,95.6,94.4,NA,NA,93.6
+2013,33,New Hampshire,13240,100,Census,NA,?94.7,?94.7,NA,NA,?94.7
+2013,34,New Jersey,123085,95.443799,Census,NA,?96.8,?96.8,NA,?96.8,NReq
+2013,35,New Mexico,30725,2.701383238,Stratified  2-stage cluster sample,NA,95.9,97.4,NA,NA,93.4
+2013,36,New York State,240318,100,Census,NA,96.8,98.1,NA,98.2,NReq
+2013,37,North Carolina,126084,97.70629104,Census,NA,98.8,98.7,NA,99.7,NReq
+2013,38,North Dakota,9780,96.08384458,Census (Public)Stratified  2-stage cluster sample(Private),NA,90,90.2,NA,NA,89.4
+2013,39,Ohio,150000,92.54666667,Census,NA,96.2,96.1,NA,NA,95.7
+2013,40,Oklahoma,57377,71.33346114,Voluntary response,NA,96.4,96.1,NA,98,NReq
+2013,41,Oregon,47649,100,Census,NA,93.2,93.3,NA,94.3,NReq
+2013,42,Pennsylvania,151253,100,Census,NA,85.3,NReq|| ,NA,NA,84
+2013,44,Rhode Island,11521,99.13201979,Census,NA,95.1,96,NA,NA,94.7
+2013,45,South Carolina,61661,10.98100907,1-stage stratified sample,NA,96.8,97.3,NA,94.4,NReq
+2013,46,South Dakota,12566,100,Census,NA,96.6,96.7,NA,NA,95.3
+2013,47,Tennessee,80212,99.8341894,Census,NA,?94.9,?94.9,NA,NA,?94.9
+2013,48,Texas,409255,97.06955321,Census,NA,97.5,97.2,NA,NA,97.2
+2013,0,U.S. Median ,NA,NA,NA,NA,94.7,95,NA,96.6,93.2
+2013,49,Utah,54779,100,Census,NA,98.5,98.1,NA,99.6,NReq
+2013,50,Vermont,6771,100,Census,NA,91.2,92,NA,NA,89.4
+2013,51,Virginia,105692,4.056125345,2-stage cluster  sample,NA,93.1,98.3,NA,NA,91.3
+2013,53,Washington,89165,88.51455167,Voluntary response,NA,89.7,90.3,NA,NA,88.4
+2013,54,West Virginia,22814,84.65415973,Voluntary response,NA,96.1,96.5,NA,NA,95.5
+2013,55,Wisconsin,71363,2.788559898,Stratified  2-stage cluster sample,NA,92.6,96.3,NA,NA,91.2
+2013,56,Wyoming ,NA,NA,Not conducted,NA,NA,NA,NA,NA,NA
+2014,1,Alabama,59660,100,Census,NA,?93.5,?93.5,NA,?93.5,NReq
+2014,2,Alaska,10129,7.8,Stratified 2-stage cluster sample,NA,92.7,92.7,NA,NA,91.6
+2014,4,Arizona,86153,98.3,Census,NA,94.2,94.3,NA,96.6,NReq
+2014,5,Arkansas,41252,95.9,"Census (public), Voluntary response (private)",NA,88.4,85.6,NA,NA,88
+2014,6,California,552583,96.9,Census,NA,92.6,92.4,NA,95.5,NReq
+2014,8,Colorado,70597,0.5,Simple random sample,NA,86.9,84.3,NA,NA,85.4
+2014,9,Connecticut,39948,100,Census,NA,97,97,NA,NA,96.8
+2014,10,Delaware,11476,7.9,Stratified 2-stage cluster sample,NA,97.8,97.7,NA,NA,97.7
+2014,11,District of Columbia,7840,100,Census,NA,90.4,90.2,NA,NA,90
+2014,12,Florida,228982,100,Census,NA,?93.3,?93.3,NA,NA,?93.3
+2014,13,Georgia,139471,100,Census,NA,?94.0 ,?94.0,NA,NA,?94.0
+2014,15,Hawaii,20085,5.6,Stratified 2-stage cluster sample,NA,NA,NA,NA,NA,NReq
+2014,0,HP 2020 Target,NA,NA,NA,NA,95,95,NA,NA,95
+2014,16,Idaho,22968,100,Census,NA,89.5,89.4,NA,NA,88.4
+2014,17,Illinois,156942,100,Census,NA,94.7,94.9,NA,NA,95.3
+2014,18,Indiana,85477,70.1,Voluntary response,NA,89.3,92.7,NA,NA,90.1
+2014,19,Iowa,43239,96.3,Census,NA,?91.9,?91.9,NA,NA,?91.9
+2014,20,Kansas,39685,24.5,Stratified 2-stage cluster sample,NA,89.2,89.6,NA,NA,88.9
+2014,21,Kentucky,57884,97.2,Census,NA,92.7,94.4,NA,NA,92.3
+2014,22,Louisiana,60377,100,Census,NA,96.8,98.3,NA,NA,96.7
+2014,23,Maine,13704,88.9,"Voluntary response (public), Census (private)",NA,92.1,95.4,NA,79.2,NReq
+2014,24,Maryland,75391,90.2,"Census (public), Voluntary response (private)",NA,99.1,99.6,NA,NA,98.8
+2014,25,Massachusetts,74869,100,Census,NA,94.7,92.9,NA,NA,94.1
+2014,26,Michigan,117963,100,Census,NA,94.3,95.1,NA,NA,93.9
+2014,27,Minnesota,70896,97.8,Census,NA,93.5,93.7,NA,NA,92.7
+2014,28,Mississippi,44129,100,Census,NA,?99.2,?99.2,NA,NA,?99.2
+2014,29,Missouri,75900,100,Census,NA,95.8,96,NA,NA,95.3
+2014,30,Montana,12501,95.7,"Census (public), Voluntary response (private)",NA,94.6,94.6,NA,NReq,NReq
+2014,31,Nebraska,26665,100,Census,NA,96,96.4,NA,NA,95.8
+2014,32,Nevada,36755,2.8,Stratified 2-stage cluster sample,NA,94,93.2,NA,NA,92.9
+2014,33,New Hampshire,12422,98.9,"Census (public), Voluntary response (private)",NA,?91.4,?91.4,NA,NA,?91.4
+2014,34,New Jersey,120471,93.9,"Census (public), Voluntary response (private)",NA,?92.3,?92.3,NA,?92.3,NReq
+2014,35,New Mexico,29918,3.3,Stratified 2-stage cluster sample,NA,97.7,96.4,NA,NA,97.2
+2014,36,New York State,237045,100,Census,NA,98.2,97.5,NA,NA,96.4
+2014,37,North Carolina,129792,95,"Census (public), Voluntary response (private)",NA,98.5,98.4,NA,99.4,NReq
+2014,38,North Dakota,10017,99.9,Census,NA,89.8,89.6,NA,NA,89.5
+2014,39,Ohio,149080,91,"Census (public), Voluntary response (private)",NA,91.9,92.2,NA,NA,91.2
+2014,40,Oklahoma,56967,95.9,Census,NA,90.3,90,NA,92.5,NReq
+2014,41,Oregon,46229,100,Census,NA,94.1,93.8,NA,95.2,NReq
+2014,42,Pennsylvania,146378,98.3,Census,NA,91.7,NReq||,NA,NA,92
+2014,44,Rhode Island,11163,98.9,Census,NA,95.7,96.1,NA,NA,95.4
+2014,45,South Carolina,62864,12.2,Stratified 1-stage cluster sample,NA,96.5,97.2,NA,NA,95.4
+2014,46,South Dakota,12008,100,Census,NA,97.1,97.2,NA,NA,96.8
+2014,47,Tennessee,78276,100,Census,NA,?95.1,?95.1,NA,NA,?95.1
+2014,48,Texas,406099,98.3,"Census (public), Voluntary response (private)",NA,97.4,97.2,NA,NA,97
+2014,0,U.S. Median,NA,NA,NA,NA,94,94.2,NA,95.2,93.6
+2014,49,Utah,50916,100,Census,NA,94,93.8,NA,97.2,NReq
+2014,50,Vermont,6277,100,Census,NA,92.7,93.2,NA,NA,90.5
+2014,51,Virginia,103821,4.1,Stratified 2-stage cluster sample,NA,93.4,97.4,NA,NA,90.4
+2014,53,Washington ,88809,96.7,"Census (public), Voluntary response (private)",NA,89.4,90.7,NA,NA,87.9
+2014,54,West Virginia,22016,81.3,Voluntary response,NA,97.6,97.6,NA,NA,97
+2014,55,Wisconsin,69335,2.5,Stratified 2-stage cluster sample,NA,91.6,96.5,NA,NA,90.9
+2014,56,Wyoming,7983,97.9,Census,NA,96.8,96.7,NA,NA,96.5

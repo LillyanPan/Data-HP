@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-default {
+  background-color: #fafafa;
+  border-color: #eeeeee;
+}
+
+.contentBox {
+  padding-top: 120px;
+}
+
+.graphControls {
+  background: #fafafa;
+  border-radius: 10px;
+  height: 500px;
+  /*display: inline-block;*/
+}
+
+.graph {
+  padding-top: 150px;
+}

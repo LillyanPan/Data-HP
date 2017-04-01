@@ -1,0 +1,1000 @@
+Age,Radiologists_Assessment_Based_On_The_BI_RADS_Scale,Binary_Indicator_Of_Cancer_Diagnosis_In_1_Year_Of_Screening_Mammogram,Comparison_Mammogram_From_Prior_Mammography_Available,Patients_BI_RADS_Breast_Density_At_Time_Of_Mammogram,Family_History_Of_Breast_Cancer_In_A_First_Degree_Relative,Current_Use_Of_Hormone_Therapy_At_Time_Of_Mammogram,Binary_Indicator_Whether_Woman_Had_Ever_Received_Prior_Mammogram,History_Of_Breast_Biopsy,Film_Or_Digital_Mammogram,Cancer_Type,BMI,Patients_Study_ID
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.0235443,1
+69,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.0524292,3
+63,Probably benign,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,33.7295227,5
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,24.7460175,8
+66,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,16.4610291,10
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.1538849,13
+74,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,24.6915436,14
+63,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,Missing,No,No,Digital mammogram,No cancer diagnosis,25.2322083,15
+61,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.1289825,17
+64,Needs additional imaging,No cancer diagnosis,No,Heterogeneously dense,No,No,Missing,No,Digital mammogram,No cancer diagnosis,18.9438019,18
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.9610291,19
+77,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,18.0113373,20
+67,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,36.5800476,21
+61,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,22.5963287,22
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,33.8365479,23
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,34.5681458,24
+60,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,Yes,Yes,Yes,Film mammogram,No cancer diagnosis,28.0840149,27
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.463623,29
+60,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,Yes,Digital mammogram,No cancer diagnosis,26.8863525,31
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,36.5800476,32
+81,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.5402527,39
+80,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,34.1769409,39
+68,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,21.3000641,41
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.8506317,42
+83,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,29.859436,43
+66,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Missing,No,Film mammogram,No cancer diagnosis,25.3885956,46
+63,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.5709991,48
+60,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,18.7944336,49
+61,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,28.1666412,50
+79,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.4967346,51
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,26.7034454,52
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,19.7394714,53
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.7770386,54
+65,Needs additional imaging,No cancer diagnosis,No,Almost entirely fatty,No,No,No,No,Digital mammogram,No cancer diagnosis,25.178772,56
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.463623,57
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.9532318,58
+84,Needs additional imaging,No cancer diagnosis,No,Scattered fibroglandular densities,Yes,No,Missing,No,Digital mammogram,No cancer diagnosis,22.459137,60
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,25.6857452,61
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.1761169,62
+69,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,28.2454224,64
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,28.2454224,64
+70,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,28.2454224,64
+68,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,39.5435791,65
+63,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,35.0243225,73
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,29.2640533,75
+86,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.1390991,81
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,30.1785583,85
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.341568,87
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.8625336,88
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,35.5218811,90
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.7996063,91
+63,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,34.2023621,92
+76,Needs additional imaging,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,28.1916656,94
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.9599457,96
+78,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.459137,97
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.6328888,98
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,37.1225586,99
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,18.7944336,105
+67,Negative,No cancer diagnosis,No,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.5077362,106
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.1289825,107
+61,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.6060486,109
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,34.9454346,110
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,22.3141937,112
+71,Negative,No cancer diagnosis,Missing,Heterogeneously dense,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,23.7367706,113
+67,Negative,No cancer diagnosis,Yes,Extremely dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,18.1828156,114
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.8738251,115
+87,Needs additional imaging,Cancer Diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,Invasive cancer,27.5206451,116
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.6853027,117
+70,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.8625336,119
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.0757294,120
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.3606415,121
+77,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.6738892,121
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,28.3424072,122
+68,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.2761536,123
+67,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.9881287,124
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.4356232,130
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.8940277,131
+64,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,21.3000641,134
+62,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.5456085,134
+64,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.0281982,135
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,29.2640533,136
+84,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,21.4826508,138
+60,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,42.5136108,140
+64,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.6496735,142
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.4033508,143
+70,Needs additional imaging,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,No,No,Film mammogram,No cancer diagnosis,25.8423615,144
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.2761536,146
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.0592499,146
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,38.7365723,147
+72,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,26.5709991,148
+61,Negative,No cancer diagnosis,Yes,Extremely dense,Missing,Missing,Yes,No,Film mammogram,No cancer diagnosis,19.1974182,149
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.2466583,150
+70,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.7578735,151
+87,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.9480286,153
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.8027039,155
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,31.1761169,159
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Missing,Missing,Yes,No,Digital mammogram,No cancer diagnosis,25.9718475,165
+80,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,25.6060486,168
+78,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.2866669,168
+79,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.8804321,168
+70,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,24.3257446,169
+60,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,18.1828156,174
+60,Needs additional imaging,No cancer diagnosis,Yes,Almost entirely fatty,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,25.9718475,175
+84,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,28.4724884,178
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,29.1800995,180
+82,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,23.7770386,183
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Missing,Film mammogram,No cancer diagnosis,26.6053925,184
+61,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,31.7548218,185
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.7930603,186
+63,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.5225067,187
+78,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,26.3650818,188
+75,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,28.2454224,189
+71,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,27.4085693,193
+80,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,18.7095947,196
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.2402496,197
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,25.7471466,198
+67,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.5233917,199
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.9268494,204
+63,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.3967133,204
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,26.7481384,207
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,45.1135864,208
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.6739197,209
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.2640533,210
+78,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,28.3180542,211
+72,Needs additional imaging,No cancer diagnosis,Missing,Heterogeneously dense,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,21.9709015,212
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,19.614151,213
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.3743896,213
+72,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,25.0605621,214
+60,Negative,No cancer diagnosis,No,Almost entirely fatty,No,No,No,No,Film mammogram,No cancer diagnosis,36.0226746,215
+64,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,30.2313995,216
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,28.4555664,217
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,36.1365662,218
+63,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.7249298,219
+62,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.4350433,220
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,27.878418,221
+74,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,25.9857788,225
+60,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.1437073,226
+63,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,26.5444336,227
+71,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,30.1785583,229
+67,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,18.2900238,230
+67,Benign findings,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.2640533,231
+80,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,22.46492,232
+61,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,43.399292,234
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.8965759,238
+84,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.8109894,242
+82,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.3424072,242
+62,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,33.2813721,246
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,35.7774658,247
+80,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.1425476,252
+70,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.178772,253
+65,Needs additional imaging,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.2474976,254
+72,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.0306702,255
+77,Benign findings,No cancer diagnosis,No,Heterogeneously dense,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,21.9709015,258
+61,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.6328888,259
+67,Probably benign,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,20.8209076,264
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,21.7893219,264
+79,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.2725067,265
+78,Needs additional imaging,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,28.3495483,266
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,23.1724396,267
+63,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,20.9823151,268
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,34.5681458,269
+79,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,34.9550476,273
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,30.6999359,274
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.6060486,275
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Missing,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.3424072,276
+75,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.6966858,277
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.9563293,279
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.8047485,280
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.4356232,282
+63,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Missing,No,Digital mammogram,No cancer diagnosis,26.5810547,287
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,25.3187866,288
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,30.7852631,290
+78,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.6966858,291
+71,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,18.1679535,292
+76,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,16.0604248,293
+74,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.8393555,293
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,26.7556763,297
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.1724396,298
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.9995117,301
+63,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.5440216,304
+64,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,37.7624817,305
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.9300232,309
+87,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.6915436,310
+64,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.4826508,313
+65,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,26.6053925,314
+74,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.4339447,315
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,26.6053925,317
+61,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,29.3517456,318
+68,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.1800995,319
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.6873779,321
+78,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.6328888,322
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.0692444,325
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,30.1138,326
+71,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,23.3440857,329
+60,Benign findings,No cancer diagnosis,No,Heterogeneously dense,No,No,No,No,Film mammogram,No cancer diagnosis,24.0306702,330
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,26.5205383,331
+71,Negative,No cancer diagnosis,Missing,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.2103577,332
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.5822296,333
+67,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,37.7892456,334
+65,Benign findings,No cancer diagnosis,No,Almost entirely fatty,No,Yes,Yes,Yes,Film mammogram,No cancer diagnosis,34.0103149,335
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,35.6655579,337
+77,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,33.9816589,338
+72,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.1425018,339
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.3240662,340
+63,Probably benign,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.7429657,342
+77,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,Missing,Yes,Yes,Digital mammogram,No cancer diagnosis,22.6735382,343
+71,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.2568054,344
+88,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.9268494,347
+67,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.4858398,350
+64,Negative,No cancer diagnosis,No,Heterogeneously dense,No,No,Missing,No,Digital mammogram,No cancer diagnosis,23.5941467,351
+64,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,22.3138428,354
+66,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.7977295,358
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,Yes,Film mammogram,No cancer diagnosis,23.2969513,358
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.7883759,359
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.7791901,360
+75,Negative,No cancer diagnosis,Missing,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.2945404,360
+82,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.9718475,362
+73,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.6060486,363
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.0454407,367
+84,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.46492,368
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,26.3376465,369
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,27.3972015,369
+65,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,28.8890686,370
+71,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,28.12883,372
+62,Needs additional imaging,No cancer diagnosis,Missing,Extremely dense,Yes,Yes,Yes,No,Film mammogram,No cancer diagnosis,21.2866821,374
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,25.7791901,375
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,19.5775452,376
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.4121094,382
+60,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,20.3606415,383
+70,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.4356232,387
+64,Benign findings,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,No,No,Film mammogram,No cancer diagnosis,33.2035217,388
+83,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.4350433,390
+63,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,38.7721863,391
+82,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,23.9625854,392
+76,Needs additional imaging,Cancer Diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,Invasive cancer,21.6328888,393
+63,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,31.2474976,396
+82,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,24.1428375,399
+71,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.0592499,404
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.3685913,407
+66,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,24.1428375,408
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,18.8812408,409
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,37.7624817,413
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,31.3240662,417
+82,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.5630035,420
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.1800995,422
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.463623,427
+66,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,15.4587479,428
+60,Negative,No cancer diagnosis,Yes,Extremely dense,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,21.7992554,431
+68,Benign findings,No cancer diagnosis,No,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,40.5088501,437
+73,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.1724396,451
+64,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.2283325,452
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.1428375,452
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.3187866,452
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,38.7365723,453
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.2969513,454
+65,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.2969513,456
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,20.896759,460
+82,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.129837,461
+79,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.1761169,463
+81,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.9117737,468
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.4602356,473
+62,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.9594574,473
+80,Needs additional imaging,Cancer Diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,Invasive cancer,19.968811,477
+61,Negative,No cancer diagnosis,No,Heterogeneously dense,No,No,No,No,Digital mammogram,No cancer diagnosis,19.3682861,481
+67,Needs additional imaging,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.6317291,483
+76,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,28.9087677,487
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,51.4942932,488
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.1289825,489
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,Yes,Digital mammogram,No cancer diagnosis,29.0524292,490
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,20.6677399,491
+61,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,40.2107849,492
+68,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.5264435,497
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.7770386,498
+72,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.7770386,501
+83,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,Yes,Missing,Yes,No,Film mammogram,No cancer diagnosis,23.0281982,503
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.4559631,507
+63,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,31.7548218,509
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.5709991,510
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,19.021637,512
+70,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,19.021637,512
+68,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.8062897,513
+68,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,21.4665222,515
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,22.7977295,517
+70,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.1208496,519
+79,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.6629791,520
+68,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.6254578,521
+68,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.1321106,526
+87,Needs additional imaging,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.8732452,529
+67,Benign findings,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.0592499,534
+64,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.8062897,536
+77,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,34.3354492,542
+79,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,26.7517242,543
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,33.6566162,546
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,35.428009,547
+63,Benign findings,No cancer diagnosis,No,Extremely dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.1724396,549
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,39.1055908,550
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,39.1055908,550
+63,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.3310242,551
+60,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.888916,559
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,30.7852631,561
+70,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,38.2735596,562
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.4469452,566
+67,Negative,No cancer diagnosis,Missing,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.8625336,567
+64,Benign findings,No cancer diagnosis,No,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,35.2782288,571
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,18.7835083,572
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,29.1212006,573
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.3000641,574
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.9268494,575
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.0930481,576
+67,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.8423615,579
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.6182709,580
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.6182709,580
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,34.7628479,584
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.7928009,586
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.4085693,587
+61,Negative,No cancer diagnosis,Yes,Extremely dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,22.2735291,590
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.6915436,593
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.8524933,594
+61,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.0930481,597
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.4898376,600
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.4967346,606
+81,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.1785583,613
+61,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.3440857,620
+77,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,37.3116455,626
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.7996063,628
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,18.8812408,631
+78,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.6739197,632
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,17.741333,633
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.1538849,634
+76,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.8032379,635
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.2045288,642
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.2663879,644
+73,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,20.4680328,649
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,23.1724396,650
+74,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,20.3743896,651
+80,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,21.0335388,660
+71,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,17.5584259,662
+75,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.6735382,668
+79,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,25.7471466,670
+64,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,25.2322083,672
+76,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,22.6735382,673
+64,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.7067413,675
+87,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.1138,678
+86,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.1138,678
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.8291321,680
+60,Benign findings,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.6130371,684
+80,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,Yes,Yes,Yes,Film mammogram,No cancer diagnosis,25.0592499,685
+75,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.463623,686
+84,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.7532349,698
+61,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,23.0231934,699
+80,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.1203308,702
+77,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,17.5767212,706
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.463623,709
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.8903351,710
+68,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,38.9577637,712
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.8625336,713
+63,Negative,No cancer diagnosis,Yes,Extremely dense,No,Missing,Yes,Yes,Digital mammogram,No cancer diagnosis,19.8396759,716
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,31.0112305,717
+63,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Missing,Film mammogram,No cancer diagnosis,38.4490662,718
+80,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.7471466,721
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,24.5331573,722
+63,Needs additional imaging,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.0757294,723
+66,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.0742798,725
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.6738892,727
+76,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.4695892,734
+60,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,Yes,Digital mammogram,No cancer diagnosis,35.7312012,737
+73,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.1537781,738
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,20.5061646,741
+68,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,23.0450287,744
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.3517456,745
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.3376465,746
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.1508789,749
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.627594,749
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Missing,Yes,No,Film mammogram,No cancer diagnosis,19.8396759,750
+80,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,15.947319,751
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,Yes,Digital mammogram,No cancer diagnosis,35.6655579,753
+64,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.6328888,754
+75,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,37.5536804,755
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.4584961,758
+62,Negative,No cancer diagnosis,Missing,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.2103577,763
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.3257446,764
+78,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,Yes,Yes,No,Film mammogram,No cancer diagnosis,30.4524536,765
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.463623,766
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,28.3218689,766
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.5233917,766
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.9480286,768
+78,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.5998077,769
+68,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,30.4184875,770
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.3717651,771
+71,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.1138,772
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,33.6324158,773
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.7471466,774
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,19.2045288,775
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.8243866,776
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.3739624,779
+73,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Yes,Yes,Yes,Film mammogram,No cancer diagnosis,26.1247253,781
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,28.3218689,782
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,29.1800995,782
+71,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,42.379425,783
+63,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Missing,Yes,No,Digital mammogram,No cancer diagnosis,25.0573425,786
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,25.5077362,786
+61,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.1522064,787
+80,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.0592499,788
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,Yes,Film mammogram,No cancer diagnosis,21.9177551,789
+69,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,33.6566162,798
+68,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.7992859,800
+75,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,21.5822296,806
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.6053925,807
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.463623,807
+71,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,37.432251,808
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.4571228,809
+76,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.0306702,810
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.8497314,812
+72,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,20.0827789,813
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,23.627594,814
+68,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.3367004,815
+61,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,35.1534424,816
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,35.1534424,816
+62,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.3218689,817
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.4826508,820
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,36.3136902,828
+83,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,19.8547974,830
+72,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,42.9119263,831
+80,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.7034454,837
+86,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.6309204,838
+86,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,23.4033508,842
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.9563446,843
+73,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,33.20047,844
+68,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.0306702,846
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.6452332,854
+84,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.2521515,856
+81,Benign findings,No cancer diagnosis,Missing,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.1024323,857
+80,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.1024323,857
+84,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.5596313,860
+76,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,16.8283081,861
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.7770386,865
+69,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.4033508,866
+84,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.4567108,867
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.2891541,869
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,26.469986,871
+67,Benign findings,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.4796906,874
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,46.8067017,877
+68,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.262085,885
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.5810547,891
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,32.9220581,893
+69,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.3972015,894
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.6735382,895
+66,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,18.2454224,897
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,26.1697845,901
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,23.7770386,904
+61,Negative,No cancer diagnosis,No,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.0644073,905
+78,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,49.3830872,906
+63,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Yes,Yes,Yes,Film mammogram,No cancer diagnosis,31.9300232,909
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.848114,913
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.3240662,917
+68,Needs additional imaging,Cancer Diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,Yes,Film mammogram,ductal carcinoma in situ,28.6651611,918
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,19.968811,920
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.0281982,923
+69,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,21.7893219,924
+67,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,20.6595001,929
+79,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,42.0670776,932
+78,Negative,No cancer diagnosis,No,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,32.9220581,934
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,44.4023438,935
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.5775452,937
+68,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,25.7471466,939
+75,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.3401794,943
+82,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.4584961,944
+73,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.6417542,946
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,31.7429657,947
+60,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.5482483,948
+62,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,21.2568054,948
+67,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.8069153,950
+67,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.2638397,951
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,33.10495,952
+77,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.0450287,955
+73,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.4524689,957
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,27.3972015,957
+69,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.240097,960
+68,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,28.3424072,961
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.0930481,964
+83,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.5775452,968
+68,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.9532318,971
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.9718475,973
+65,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,34.7510681,975
+70,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,19.2245331,978
+69,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,19.7394714,978
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.7889404,980
+79,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,28.2762451,984
+73,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.9480286,987
+68,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.888916,988
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.862442,988
+65,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,47.5540771,991
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.0573425,993
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.2969513,994
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.7099457,995
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.5136871,996
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.9316864,996
+65,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,26.5709991,999
+63,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,28.8890686,1000
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,18.0770721,1004
+82,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,24.5630035,1009
+61,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,26.3085938,1012
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,23.7752686,1014
+82,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.9718475,1015
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.8247375,1023
+61,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,26.4524689,1028
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.0235443,1029
+81,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.878418,1032
+78,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,33.3023071,1035
+71,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.1785583,1037
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.1785583,1037
+64,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,24.888916,1038
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,33.7295227,1042
+65,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,30.0383453,1045
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.4453278,1047
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.9268494,1048
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,28.1916656,1050
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.7577362,1052
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.0745697,1053
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,36.1299133,1057
+73,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,38.0828857,1057
+71,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.783783,1059
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.1437531,1060
+83,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.4987488,1061
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.1851196,1062
+69,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Missing,No,Film mammogram,No cancer diagnosis,21.7893219,1063
+74,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,18.4986877,1064
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,33.4794617,1066
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,21.5907745,1068
+65,Needs additional imaging,Cancer Diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,ductal carcinoma in situ,24.1851196,1071
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,21.2164307,1074
+78,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.657486,1075
+79,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.3019257,1076
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.6282043,1079
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.888916,1081
+72,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,30.6664581,1084
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.0281982,1093
+72,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,34.7194519,1094
+80,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.1425476,1100
+81,Negative,No cancer diagnosis,Missing,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.3495483,1103
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,25.4486237,1104
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.3257446,1106
+72,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,36.3971558,1107
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.7996063,1109
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.925293,1109
+80,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,20.5977173,1112
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.7996063,1115
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,28.3419342,1117
+60,Negative,No cancer diagnosis,No,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,24.888916,1118
+75,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.5456085,1119
+80,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,Missing,Digital mammogram,No cancer diagnosis,24.1289825,1120
+77,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.0904388,1120
+88,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.6735382,1121
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.9653625,1122
+80,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,36.3551636,1124
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,39.9376221,1127
+79,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.4898376,1130
+84,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.5651855,1131
+65,Needs additional imaging,No cancer diagnosis,No,Heterogeneously dense,No,No,No,No,Film mammogram,No cancer diagnosis,31.5831757,1132
+61,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.6313324,1133
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.6172943,1136
+87,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Yes,Yes,Yes,Digital mammogram,No cancer diagnosis,22.9641418,1137
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,33.6566162,1138
+77,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,30.7852631,1142
+68,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.4091644,1144
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,52.9049377,1149
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.0910492,1150
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.463623,1155
+67,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.9220581,1156
+68,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.6276093,1158
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.463623,1164
+68,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.7893219,1165
+74,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.1425476,1166
+62,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,39.4789429,1167
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,19.3682861,1168
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,32.6130371,1169
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.3276367,1171
+66,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.6313934,1174
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.9268494,1175
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,29.6204071,1179
+66,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,21.9709015,1183
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.129837,1189
+60,Negative,No cancer diagnosis,No,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.3141937,1194
+61,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.9139099,1199
+77,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.6297607,1200
+64,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,21.4664764,1201
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.6060486,1202
+70,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.4112396,1203
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,36.3893127,1204
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.2640533,1205
+77,Negative,No cancer diagnosis,Missing,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.974762,1206
+61,Negative,No cancer diagnosis,No,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,24.3921814,1207
+64,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.4524689,1208
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.2640533,1209
+69,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.5678253,1213
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.9111328,1213
+62,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.262085,1215
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.46492,1217
+63,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,39.8565063,1221
+78,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,33.0655823,1222
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,28.3424072,1224
+65,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,19.6910858,1225
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,24.0215149,1230
+65,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,27.4350433,1231
+64,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,43.4576111,1232
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.4571228,1236
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,33.9862366,1237
+81,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.7791901,1238
+61,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.4665222,1240
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.5409698,1241
+62,Negative,No cancer diagnosis,Missing,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.9268494,1244
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,34.0103149,1245
+82,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,38.9707947,1246
+73,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.9220581,1247
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,23.5157318,1250
+76,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.3938599,1258
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.7321625,1260
+67,Benign findings,No cancer diagnosis,Yes,Extremely dense,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,24.888916,1261
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,23.5941467,1262
+60,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,26.925293,1263
+61,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Missing,Yes,Yes,No,Film mammogram,No cancer diagnosis,34.0103149,1264
+61,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,36.6094971,1265
+65,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.3419342,1267
+80,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,25.7471466,1268
+79,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.5963287,1269
+82,Needs additional imaging,No cancer diagnosis,No,Heterogeneously dense,Yes,No,No,No,Film mammogram,No cancer diagnosis,26.3650818,1273
+64,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.896759,1274
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,35.428009,1275
+71,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.6276093,1277
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,25.6060486,1278
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.4853973,1279
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,38.542511,1281
+64,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,39.5324097,1281
+63,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.4880981,1284
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.7014618,1287
+78,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.6739197,1288
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.4756012,1290
+66,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,30.5050507,1294
+68,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,31.1180725,1294
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.3367004,1296
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,22.0685425,1299
+70,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,25.8423615,1300
+80,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,20.6012726,1302
+78,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,22.0150757,1302
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.419281,1304
+74,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.4559631,1305
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.8243866,1306
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,16.2439728,1308
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,Yes,Film mammogram,No cancer diagnosis,32.6130371,1310
+71,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.9610291,1311
+76,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,27.8109894,1312
+65,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,37.7624817,1313
+76,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.6328888,1316
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.968811,1324
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,32.2239685,1325
+85,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.4350433,1327
+89,Benign findings,No cancer diagnosis,Missing,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.8423615,1328
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,23.2969513,1329
+60,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,No,No,Film mammogram,No cancer diagnosis,25.7889404,1330
+64,Negative,No cancer diagnosis,No,Heterogeneously dense,No,No,Missing,No,Film mammogram,No cancer diagnosis,23.0450287,1336
+66,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,27.1203308,1337
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Missing,Digital mammogram,No cancer diagnosis,26.6250916,1338
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.4350433,1339
+82,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,21.7882233,1340
+68,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.7852631,1341
+74,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.8069153,1342
+75,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.8069153,1342
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.0878754,1344
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,26.6083527,1344
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.4153595,1345
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,32.9220581,1346
+81,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,16.3065186,1348
+61,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,17.3755341,1352
+81,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.0335388,1353
+60,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,31.068222,1354
+79,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,22.7099457,1355
+78,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.9191437,1358
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,35.1534424,1359
+60,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,20.9823151,1360
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.2795715,1361
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,25.7471466,1362
+67,Needs additional imaging,No cancer diagnosis,No,Heterogeneously dense,No,No,No,No,Digital mammogram,No cancer diagnosis,22.3141937,1363
+75,Negative,No cancer diagnosis,No,Almost entirely fatty,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.3824768,1364
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Yes,Yes,No,Digital mammogram,No cancer diagnosis,21.9268494,1365
+64,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,36.0313416,1367
+65,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.2269135,1370
+66,Benign findings,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.0692444,1371
+60,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Missing,Yes,Yes,Digital mammogram,No cancer diagnosis,29.9532318,1372
+71,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,34.1134033,1374
+78,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,26.3376465,1381
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.341568,1384
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.1697845,1387
+72,Negative,No cancer diagnosis,No,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,21.2568054,1388
+66,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,31.7548218,1389
+64,Needs additional imaging,No cancer diagnosis,No,Heterogeneously dense,No,Yes,Yes,Yes,Digital mammogram,No cancer diagnosis,30.9995117,1390
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,23.1724396,1391
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,23.9629211,1393
+68,Negative,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,24.0306702,1394
+77,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.6966858,1395
+76,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.2891541,1396
+65,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,49.0172729,1397
+63,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,31.5309296,1399
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,29.2945404,1400
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.7253876,1401
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,19.420929,1402
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,25.9857788,1405
+67,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.0193024,1406
+68,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.2521515,1406
+80,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,27.341568,1407
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.5086365,1408
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,32.4493103,1409
+79,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.6853027,1410
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.1755981,1412
+65,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.2938385,1413
+74,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.2663879,1414
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.4356232,1418
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.1305389,1423
+79,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,29.2866669,1431
+68,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,29.7595215,1432
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,21.4339447,1433
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.6915436,1436
+74,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.2907104,1437
+63,Needs additional imaging,Cancer Diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Missing,Film mammogram,Invasive cancer,21.7893219,1438
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Yes,Yes,No,Digital mammogram,No cancer diagnosis,27.4384003,1440
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,31.1761169,1441
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.9547882,1443
+69,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,29.6204071,1443
+74,Benign findings,No cancer diagnosis,No,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.5630035,1445
+79,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.1989746,1446
+72,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,25.178772,1447
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,18.8946228,1448
+63,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.3885956,1452
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Yes,Yes,No,Digital mammogram,No cancer diagnosis,21.6328888,1454
+83,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.3440857,1455
+81,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.0306702,1455
+75,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,Missing,Yes,No,Digital mammogram,No cancer diagnosis,43.3336182,1456
+86,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.2168121,1459
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.9268494,1460
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,21.9268494,1460
+77,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,33.3255615,1463
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,Yes,Digital mammogram,No cancer diagnosis,22.7099457,1464
+74,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,25.9718475,1465
+71,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,30.2860413,1467
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,21.2164307,1469
+62,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.6506042,1470
+70,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.6735382,1471
+80,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,26.400238,1473
+83,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.4356232,1474
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.888916,1475
+60,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.2640533,1477
+74,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,20.4848328,1478
+65,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,30.5409698,1483
+63,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,30.5409698,1483
+69,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,Missing,Yes,No,Film mammogram,No cancer diagnosis,27.9881287,1484
+79,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,17.8911438,1486
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.4848328,1488
+80,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,16.9472504,1489
+78,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,17.7542572,1489
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.957901,1494
+83,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,21.6276093,1495
+76,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,21.9709015,1497
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.4350433,1498
+65,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.9823151,1501
+83,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,30.5050507,1502
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,21.1126556,1506
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,23.627594,1507
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.8852081,1511
+65,Benign findings,No cancer diagnosis,No,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.1190338,1512
+66,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.7532349,1516
+78,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.2762451,1519
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.3972015,1522
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.5963287,1523
+78,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.7321625,1525
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,26.0904388,1526
+76,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.071106,1528
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,20.371109,1530
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,25.7471466,1532
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,24.3739624,1533
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,26.5709991,1536
+74,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,32.3157043,1539
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,26.925293,1541
+68,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,27.4567108,1541
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.4567108,1548
+65,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,27.8722992,1550
+75,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.2866821,1552
+77,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.2907104,1554
+61,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,26.6053925,1557
+65,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Missing,Digital mammogram,No cancer diagnosis,30.7852631,1558
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,26.0904388,1562
+66,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.1428375,1564
+72,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,30.8965759,1570
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,27.1024323,1573
+71,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,23.5596313,1575
+86,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.8243866,1577
+73,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,23.2269135,1578
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.1761169,1583
+80,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.1437531,1586
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,31.9576721,1589
+75,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,23.0249481,1590
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,21.9656982,1593
+79,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,26.6053925,1595
+71,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.2866821,1596
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.2640533,1600
+79,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.7651367,1605
+66,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.564743,1607
+68,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.5709991,1607
+67,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.657486,1608
+74,Negative,No cancer diagnosis,Missing,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,59.1749573,1609
+60,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,35.239563,1610
+74,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.9300232,1612
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.4967346,1614
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,Yes,Digital mammogram,No cancer diagnosis,25.5077362,1615
+63,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.4571228,1616
+74,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,19.1367798,1618
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,36.7997437,1619
+75,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,37.3116455,1625
+63,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,Missing,Yes,No,Digital mammogram,No cancer diagnosis,43.8536987,1628
+77,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,34.3295288,1633
+75,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.1724396,1635
+73,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,24.0306702,1637
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,26.4524689,1639
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Missing,Film mammogram,No cancer diagnosis,35.9594116,1640
+64,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,32.416626,1643
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.3424072,1649
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.5630035,1650
+72,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.6915436,1651
+82,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.4203339,1652
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,Yes,Digital mammogram,No cancer diagnosis,20.3108673,1653
+60,Negative,No cancer diagnosis,Yes,Extremely dense,No,Missing,Yes,Yes,Digital mammogram,No cancer diagnosis,24.6915436,1655
+64,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,32.9220581,1656
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,34.7510681,1656
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.6298523,1657
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,17.0051575,1658
+70,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,29.0524292,1662
+72,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.2313995,1663
+74,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,Yes,Missing,Yes,No,Film mammogram,No cancer diagnosis,27.4350433,1665
+64,Needs additional imaging,No cancer diagnosis,No,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,31.3120575,1672
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,22.9641418,1674
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,35.7026978,1676
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,No,Digital mammogram,No cancer diagnosis,23.5157318,1680
+82,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.0827789,1681
+77,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.2945404,1682
+74,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.3885956,1684
+79,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,28.8982544,1685
+77,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.1785583,1685
+73,Benign findings,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.2938385,1691
+66,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,33.6566162,1694
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,23.2053375,1697
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,25.9857788,1699
+76,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Missing,Film mammogram,No cancer diagnosis,22.7099457,1703
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.2313995,1706
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.0348206,1707
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.0173645,1708
+88,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,21.4665222,1709
+63,Negative,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.3495483,1710
+69,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,30.2909546,1712
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.9300232,1717
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,29.2945404,1718
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.3424072,1719
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.0249481,1722
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,20.526474,1724
+64,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,No,Film mammogram,No cancer diagnosis,22.8625336,1725
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.2804565,1727
+67,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,29.7578735,1729
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.1761169,1731
+70,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.7288055,1732
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.7556458,1735
+77,Benign findings,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.4524689,1737
+82,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,39.6787109,1738
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,31.8852081,1740
+89,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,21.3003693,1741
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.2891541,1742
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.7198181,1747
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.1289825,1748
+61,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Missing,Yes,Yes,Digital mammogram,No cancer diagnosis,22.8625336,1750
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.0193024,1754
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.2919769,1755
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.3495483,1756
+60,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.8852081,1759
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.2969513,1760
+86,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.0797424,1763
+71,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,19.7249908,1764
+69,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.627594,1765
+78,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,37.251709,1767
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.0469208,1770
+61,Needs additional imaging,Cancer Diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,ductal carcinoma in situ,25.6966858,1771
+61,Benign findings,No cancer diagnosis,Yes,Extremely dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,22.3138428,1772
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.0306702,1773
+71,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.0605621,1774
+62,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.4075317,1775
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,33.9816589,1776
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.8131104,1777
+67,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.9980011,1780
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,32.9220581,1781
+66,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,35.1439819,1781
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.8852081,1784
+72,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.463623,1786
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Missing,Film mammogram,No cancer diagnosis,34.6232605,1794
+86,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,24.2761536,1797
+66,Needs additional imaging,No cancer diagnosis,No,Almost entirely fatty,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,34.7628479,1800
+76,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.2133789,1801
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,35.5440369,1802
+78,Probably benign,No cancer diagnosis,Missing,Scattered fibroglandular densities,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.6703339,1806
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.2419434,1807
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.8856354,1808
+68,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Missing,Yes,Film mammogram,No cancer diagnosis,30.4524536,1811
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.459137,1813
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,32.9220581,1816
+85,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.5977173,1817
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,23.9139099,1822
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Yes,Yes,No,Digital mammogram,No cancer diagnosis,24.9566498,1823
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.8333893,1824
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,31.8333893,1824
+66,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,29.5366364,1825
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.0469208,1831
+75,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,22.1121216,1832
+77,Negative,No cancer diagnosis,Yes,Extremely dense,No,Yes,Yes,Yes,Digital mammogram,No cancer diagnosis,22.1425018,1833
+76,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.7676697,1836
+80,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.1126556,1839
+80,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.374054,1843
+67,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,24.3276367,1844
+68,Needs additional imaging,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,Yes,Film mammogram,No cancer diagnosis,29.2640533,1847
+69,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,29.9956512,1847
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,30.9995117,1848
+86,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.1874542,1849
+65,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,27.2521515,1851
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Missing,Yes,No,Digital mammogram,No cancer diagnosis,28.2891541,1854
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.6915436,1857
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,24.5456085,1858
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,38.6165161,1859
+68,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,25.8856354,1860
+74,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.3614655,1861
+71,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,30.7852631,1862
+85,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.7930603,1865
+71,Needs additional imaging,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,26.1471863,1866
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.3424072,1868
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,29.9532318,1869
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,20.175293,1871
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.1555939,1872
+74,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,23.0450287,1875
+65,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,34.1769409,1878
+66,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,24.5331573,1879
+82,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,22.9641418,1880
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.6250916,1886
+72,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,34.3295288,1887
+68,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,35.428009,1889
+84,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.9409027,1892
+66,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,24.8559723,1893
+68,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,20.0827789,1895
+75,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.2804565,1896
+78,Benign findings,No cancer diagnosis,Missing,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,19.3682861,1898
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,25.0173645,1901
+63,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.6060486,1902
+70,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,19.5678253,1903
+62,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,27.9785614,1904
+67,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,21.0920563,1908
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Film mammogram,No cancer diagnosis,26.6313934,1909
+71,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,28.7883759,1910
+74,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Missing,Yes,Yes,Film mammogram,No cancer diagnosis,30.8965759,1911
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.8965759,1912
+71,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,26.5709991,1914
+60,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,37.7892456,1915
+77,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Digital mammogram,No cancer diagnosis,25.4038544,1925
+70,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,20.8209076,1926
+70,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,33.8169861,1930
+67,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,22.5963287,1933
+70,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,22.5963287,1933
+60,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,24.7946167,1934
+68,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,30.2313995,1936
+67,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,20.9025269,1937
+64,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,30.2710114,1938
+62,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,27.6338501,1941
+63,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,23.1798096,1942
+69,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Film mammogram,No cancer diagnosis,38.0851135,1944
+81,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,No,No,Yes,No,Digital mammogram,No cancer diagnosis,22.657486,1945
+70,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,42.5136108,1946
+73,Negative,No cancer diagnosis,Yes,Extremely dense,No,Yes,Yes,Yes,Digital mammogram,No cancer diagnosis,22.7977295,1949
+63,Negative,No cancer diagnosis,Yes,Heterogeneously dense,Yes,Yes,Yes,No,Film mammogram,No cancer diagnosis,24.2103577,1953
+64,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,Yes,Yes,No,Film mammogram,No cancer diagnosis,24.2103577,1953
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,24.2761536,1953
+86,Negative,No cancer diagnosis,Yes,Almost entirely fatty,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,29.8535004,1954
+77,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,29.2281036,1957
+72,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,32.4493103,1959
+75,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,33.395752,1962
+77,Benign findings,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,No,Film mammogram,No cancer diagnosis,33.395752,1962
+76,Benign findings,No cancer diagnosis,Yes,Heterogeneously dense,Yes,No,Yes,No,Digital mammogram,No cancer diagnosis,19.1974182,1963
+61,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Film mammogram,No cancer diagnosis,29.2640533,1965
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,28.7296295,1967
+62,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,38.8979797,1968
+66,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Digital mammogram,No cancer diagnosis,31.8852081,1978
+60,Negative,No cancer diagnosis,No,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,28.7296295,1980
+73,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,20.3743896,1981
+60,Negative,No cancer diagnosis,Yes,Heterogeneously dense,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,32.2804565,1984
+86,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,Yes,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.7996063,1985
+63,Benign findings,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,No,Film mammogram,No cancer diagnosis,42.7402649,1986
+75,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,24.8559723,1987
+62,Negative,No cancer diagnosis,Missing,Heterogeneously dense,No,Yes,Yes,No,Digital mammogram,No cancer diagnosis,21.9529572,1990
+76,Negative,No cancer diagnosis,Yes,Almost entirely fatty,No,No,Yes,Yes,Digital mammogram,No cancer diagnosis,25.7930603,1992
+65,Negative,No cancer diagnosis,Yes,Scattered fibroglandular densities,No,Yes,Yes,No,Film mammogram,No cancer diagnosis,25.6853027,1994
