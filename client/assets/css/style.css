@@ -10,16 +10,66 @@ body {
 }
 
 .contentBox {
-  padding-top: 120px;
+  padding-top: 70px;
+}
+
+.header {
+  padding-bottom: 10px;
 }
 
 .graphControls {
-  background: #fafafa;
   border-radius: 10px;
-  height: 500px;
+  /*height: 500px;*/
   /*display: inline-block;*/
 }
 
+.dropdown {
+  padding-bottom: 10px;
+}
+
 .graph {
-  padding-top: 150px;
+  /*padding-top: 150px;*/
+}
+
+#dropdownMenuOutline {
+  overflow: hidden;
+}
+
+.graph {
+  transform: scale(.35);
+  margin-top: -525px;
+  margin-left: 80px
+}
+
+.navbar-header img {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 22px;
+  margin-right: 12px;
+  transform: scale(1.1);
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+  color: #4b4b4b;
+}
+
+
+/*TOOLTIP*/
+
+.stats {
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  position: absolute;
+  float: right;
+  width: 300px;
+  height: 200px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 12px;
+  border-radius: 3px;
+  overflow-y: scroll;
 }

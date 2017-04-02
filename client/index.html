@@ -3,11 +3,11 @@
 <head>
   <title>Data-HP</title>
 
-  <link rel="icon" type="image/x-icon" href="favicon.ico"/>
-
   <!-- STYLES -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
   <link rel="stylesheet" href="assets/css/style.css"/>
+
+  <link rel="icon" type="image/x-icon" href="favicon.ico"/>
 </head>
 
 
@@ -18,9 +18,13 @@
           <nav class="navbar navbar-default navbar-fixed-top">
             <div class='container-fluid'>
               <div class='navbar-header'>
-                <!-- <img src='hippo.png'/> -->
+                <img src='glass.png'/>
                 <a class='navbar-brand page-scroll bold' href='/#/home'>Data-HP</a>
               </div>
+              <ul class="nav navbar-nav">
+                <li><a href="#node" id="nodeButton">Node</a></li>
+                <li><a href="#states" id="statesButton">States</a></li>
+              </ul>
               <ul ng-if="!isAuthenticated()" class="nav navbar-nav pull-right">
                 <li><a href="/#/login">Sign Up or Login</a></li>
               </ul>
@@ -29,13 +33,17 @@
         </div>
       </div>
       <div class="contentBox">
-
-
+      <div class="row">
+        <div class="col-md-12 col-sm-12 header" id="nodeGraph">
+          <h1>Exploring Data</h1>
+        </div>
+      </div>
         <div class="row">
-          <div class="col-md-12 col-sm-12 graphControls">
+          <div class="col-md-2 col-sm-2 graphControls">
+            <h4>Node Options</h4>
               <div class="dropdown">
               <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                Dataset
+                <span id="dropdown-title-data">Dataset</span>
                 <span class="caret"></span>
               </button>
               <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
@@ -45,7 +53,7 @@
             </div>
             <div class="dropdown">
               <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuColor" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                Color Variable
+                <span id="dropdown-title-color">Color Variable</span>
                 <span class="caret"></span>
               </button>
               <ul class="dropdown-menu" id="dropdown-menu-color" aria-labelledby="dropdownMenuColor">
@@ -53,7 +61,7 @@
             </div>
             <div class="dropdown">
               <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuSize" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                Radius Variable
+                <span id="dropdown-title-radius">Radius Variable</span>
                 <span class="caret"></span>
               </button>
               <ul class="dropdown-menu" id="dropdown-menu-size" aria-labelledby="dropdownMenuSize">
@@ -61,19 +69,21 @@
             </div>
             <div class="dropdown">
               <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuOutline" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-                Outline Variable
+                <span id="dropdown-title-out">Outline Variable</span>
                 <span class="caret"></span>
               </button>
               <ul class="dropdown-menu" id="dropdown-menu-outline" aria-labelledby="dropdownMenuOutline">
               </ul>
             </div>
+            <div class="stats">Click a Node to View Info</div>
           </div>
+        <!-- </div> -->
+        <!-- <div class="row"> -->
+          <div class="col-md-6 col-sm-6 graph"></div>
         </div>
-        <div class="row">
-          <div class="col-md-12 col-sm-12 graph"></div>
-
-        </div>
-        <div class="row">
+        <hr/>
+        <!-- </div> -->
+        <div class="row" id="states">
           <div class="col-md-4 col-sm-4 mapControls1">
           </div>
           <div class="col-md-8 col-sm-8 map1">
@@ -85,7 +95,6 @@
           <div class="col-md-8 col-sm-8 map2">
           </div>
         </div>
-        <div ui-view></div>
       </div>
     </div>
   </div>
@@ -109,166 +118,23 @@
 
   <!-- APPLICATION CODE -->
   <script src="/app.js"></script>
+
+  <!-- SCROLL ANIMATION -->
   <script type="text/javascript">
-    var dataset_selector = $(".dropdown-menu a")
-
-    dataset_selector.click(function(){
-      var select_val = dataset_selector.html()
-      if (select_val == "Breast Cancer") {
-        var color = $("#dropdown-menu-color")
-        color.empty()
-        color.append('<li><a href="#">Binary Indicator Of Cancer Diagnosis In 1 Year Of Screening Mammogram</a></li>')
-        color.append('<li><a href="#">Comparison Mammogram From Prior Mammography Available</a></li>')
-        color.append('<li><a href="#">Family History Of Breast Cancer In A First Degree Relative</a></li>')
-
-        var size = $("#dropdown-menu-size")
-        size.empty()
-        size.append('<li><a href="#">BMI</a></li>')
-        size.append('<li><a href="#">Age</a></li>')
-
-        var outline = $("#dropdown-menu-outline")
-        outline.empty()
-        outline.append('<li value="1"><a href="#">Binary Indicator Of Cancer Diagnosis In 1 Year Of Screening Mammogram</a></li>')
-        outline.append('<li value="2"><a href="#">Comparison Mammogram From Prior Mammography Available</a></li>')
-        outline.append('<li value="3"><a href="#">Family History Of Breast Cancer In A First Degree Relative</a></li>')
-        outline.append('<li value="4"><a href="#">Binary Indicator Whether Woman Had Ever Received Prior Mammogram</a></li>')
-        outline.append('<li value="5"><a href="#">Binary Indicator Whether Woman Had Ever Received Prior Mammogram</a></li>')
-        outline.append('<li value="6"><a href="#">History Of Breast Biopsy</a></li>')
-        outline.append('<li value="7"><a href="#">Cancer Type</a></li>')
-
-        $("#dropdown-menu-outline li").click(function() {
-          outline_val = $(this).prop("value")
-
-        })
-      }
+    $("#statesButton").click(function() {
+      $('html, body').animate({
+          scrollTop: $("#states").offset().top
+      }, 1000)
+    })
+    $("#nodeButton").click(function() {
+      $('html, body').animate({
+          scrollTop: $("#nodeGraph").offset().top
+      }, 1000)
     })
   </script>
-  <script type="text/javascript">
-    var width = 1560,
-      height = 1500
 
-    var svgGr = d3.select(".graph").append("svg")
-      .attr("width", width)
-      .attr("height", height)
-
-    var parseRowBC = function(row) {
-      row.Age_At_The_Time_Of_Mammography = Number(row.Age_At_The_Time_Of_Mammography);
-      row.Body_Mass_Index_At_Time_Of_Mammogram = Number(row.Body_Mass_Index_At_Time_Of_Mammogram)
-      if (row.Binary_Indicator_Of_Cancer_Diagnosis_In_1_Year_Of_Screening_Mammogram.includes("No")) {
-        row.Binary_Indicator_Of_Cancer_Diagnosis_In_1_Year_Of_Screening_Mammogram = 0
-      }
-      else if (row.Binary_Indicator_Of_Cancer_Diagnosis_In_1_Year_Of_Screening_Mammogram.includes("Missing")) {
-        row.Binary_Indicator_Of_Cancer_Diagnosis_In_1_Year_Of_Screening_Mammogram = 2
-      }
-      else {
-        row.Binary_Indicator_Of_Cancer_Diagnosis_In_1_Year_Of_Screening_Mammogram = 1
-      }
-      if (row.Comparison_Mammogram_From_Prior_Mammography_Available.includes("No")) {
-        row.Comparison_Mammogram_From_Prior_Mammography_Available = 0
-      }
-      else if (row.Comparison_Mammogram_From_Prior_Mammography_Available.includes("Missing")) {
-        row.Comparison_Mammogram_From_Prior_Mammography_Available = 2
-      }
-      else {
-        row.Comparison_Mammogram_From_Prior_Mammography_Available = 1
-      }
-      if (row.Family_History_Of_Breast_Cancer_In_A_First_Degree_Relative.includes("No")) {
-        row.Family_History_Of_Breast_Cancer_In_A_First_Degree_Relative = 0
-      }
-      else if (row.Family_History_Of_Breast_Cancer_In_A_First_Degree_Relative.includes("Missing")) {
-        row.Family_History_Of_Breast_Cancer_In_A_First_Degree_Relative = 2
-      }
-      else {
-        row.Family_History_Of_Breast_Cancer_In_A_First_Degree_Relative = 1
-      }
-      if (row.Current_Use_Of_Hormone_Therapy_At_Time_Of_Mammogram.includes("No")) {
-        row.Current_Use_Of_Hormone_Therapy_At_Time_Of_Mammogram = 0
-      }
-      else if (row.Current_Use_Of_Hormone_Therapy_At_Time_Of_Mammogram.includes("Missing")) {
-        row.Current_Use_Of_Hormone_Therapy_At_Time_Of_Mammogram = 2
-      }
-      else {
-        row.Current_Use_Of_Hormone_Therapy_At_Time_Of_Mammogram = 1
-      }
-      if (row.Binary_Indicator_Whether_Woman_Had_Ever_Received_Prior_Mammogram.includes("No")) {
-        row.Binary_Indicator_Whether_Woman_Had_Ever_Received_Prior_Mammogram = 0
-      }
-      else if (row.Binary_Indicator_Whether_Woman_Had_Ever_Received_Prior_Mammogram.includes("Missing")) {
-        row.Binary_Indicator_Whether_Woman_Had_Ever_Received_Prior_Mammogram = 2
-      }
-      else {
-        row.Binary_Indicator_Whether_Woman_Had_Ever_Received_Prior_Mammogram = 1
-      }
-      if (row.History_Of_Breast_Biopsy.includes("No")) {
-        row.History_Of_Breast_Biopsy = 0
-      }
-      else if (row.History_Of_Breast_Biopsy.includes("Missing")) {
-        row.History_Of_Breast_Biopsy = 2
-      }
-      else {
-        row.History_Of_Breast_Biopsy = 1
-      }
-      row.Age = Number(row.Age)
-      row.BMI = Number(row.BMI)
-      return row;
-    }
-
-    var parseRowId = function(row) {
-      row.Id = Number(row.Id);
-      return row;
-    }
-    // red, green, gray
-    var discreteColorArray = ['#ff6666', '#99cc99', '#d8d8d8']
-    var discreteOutlineArray = ['#e76b6b', '#4CA64C', '#a6a6a6']
-
-
-    d3_queue.queue()
-      .defer(d3.json, "data/us.json")
-      .defer(d3.csv, "data/BreastDataParse.csv", parseRowBC)
-      .defer(d3.csv, "data/MentalHealthPop.csv", parseRowId)
-      .defer(d3.csv, "data/KinderImmun.csv", parseRowId)
-      .defer(d3.csv, "data/Immuniz13-19.csv", parseRowId)
-      .await(function (error, rawMap, rawBC, rawMH, rawKI, raw1319) {
-
-        var ageScale = d3.scale.sqrt().domain(d3.extent(rawBC, function(d) {
-          return d.Age
-        })).range([3,25])
-        var bmiScale = d3.scale.sqrt().domain(d3.extent(rawBC, function(d) {
-          return d.BMI
-        })).range([3,25])
-
-        initNode(rawBC, svgGr)
-
-         d3.select(".dropdown-menu").on("click", function() {
-          d3.select("#dropdown-menu-color").selectAll("li a")
-          .on('click', function() {
-            var color_var = $(this).text().replace(/ /g , "_")
-            updateNodeColor(discreteColorArray, color_var, svgGr)
-          })
-
-          d3.select("#dropdown-menu-size").selectAll("li a")
-          .on('click', function() {
-            var size_var = $(this).text().replace(/ /g , "_")
-            if (size_var == "Age") {
-              updateNodeSize(ageScale, size_var, svgGr)
-            }
-            else {
-              updateNodeSize(bmiScale, size_var, svgGr)
-            }
-          })
-
-          d3.select("#dropdown-menu-outline").selectAll("li a")
-          .on('click', function() {
-            var out_var = $(this).text().replace(/ /g , "_")
-            updateNodeOutline(discreteOutlineArray, out_var, svgGr)
-          })
-
-         })
-
-
-    }) // await end
-
-  </script>
+  <script type="text/javascript" src="assets/js/selectFormat.js"></script>
+  <script type="text/javascript" src="assets/js/nodeCreate.js"></script>
 
 </body>
 </html>

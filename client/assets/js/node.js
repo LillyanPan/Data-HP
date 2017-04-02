@@ -92,10 +92,10 @@ var updateNodeSize = function(scale, attr, svg) {
 }
 
 var updateNodeOutline = function(colorArray, attr, svg) {
-  if (attr = "Cancer_Type") {
+  if (attr == "Cancer_Type") {
     svg.selectAll("circle")
       .transition(500)
-      .style("stroke-width", "2px")
+      .style("stroke-width", "4px")
       .style("stroke", function(d) {
         if (d[attr].includes("No")) {
           return colorArray[0]
@@ -111,7 +111,7 @@ var updateNodeOutline = function(colorArray, attr, svg) {
   else {
     svg.selectAll("circle")
       .transition(500)
-      .style("stroke-width", "5px")
+      .style("stroke-width", "4px")
       .style("stroke", function(d) {
         return colorArray[d[attr]]
     })
