@@ -80,22 +80,13 @@ var parseRowBC = function(row) {
   return row;
 }
 
-var parseRowId = function(row) {
-  row.Id = Number(row.Id);
-  return row;
-}
 // red, green, gray
 var discreteColorArray = ['#ff6666', '#99cc99', '#d8d8d8']
 var discreteOutlineArray = ['#e76b6b', '#4CA64C', '#a6a6a6']
 
-
 d3_queue.queue()
-  .defer(d3.json, "data/us.json")
   .defer(d3.csv, "data/BreastDataParse.csv", parseRowBC)
-  .defer(d3.csv, "data/MentalHealthPop.csv", parseRowId)
-  .defer(d3.csv, "data/KinderImmun.csv", parseRowId)
-  .defer(d3.csv, "data/Immuniz13-19.csv", parseRowId)
-  .await(function (error, rawMap, rawBC, rawMH, rawKI, raw1319) {
+  .await(function (error, rawBC) {
 
     var ageScale = d3.scale.sqrt().domain(d3.extent(rawBC, function(d) {
       return d.Age

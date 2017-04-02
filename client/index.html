@@ -25,9 +25,6 @@
                 <li><a href="#node" id="nodeButton">Node</a></li>
                 <li><a href="#states" id="statesButton">States</a></li>
               </ul>
-              <ul ng-if="!isAuthenticated()" class="nav navbar-nav pull-right">
-                <li><a href="/#/login">Sign Up or Login</a></li>
-              </ul>
             </div>
           </nav>
         </div>
@@ -46,7 +43,7 @@
                 <span id="dropdown-title-data">Dataset</span>
                 <span class="caret"></span>
               </button>
-              <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
+              <ul class="dropdown-menu" id="node-dropdown-menu" aria-labelledby="dropdownMenu">
                 <li class="dropdown-header">Health</li>
                 <li><a href="#">Breast Cancer</a></li>
               </ul>
@@ -75,16 +72,88 @@
               <ul class="dropdown-menu" id="dropdown-menu-outline" aria-labelledby="dropdownMenuOutline">
               </ul>
             </div>
-            <div class="stats">Click a Node to View Info</div>
+            <div class="stats">Click or Drag a Node to View Info</div>
           </div>
         <!-- </div> -->
         <!-- <div class="row"> -->
           <div class="col-md-6 col-sm-6 graph"></div>
         </div>
-        <hr/>
         <!-- </div> -->
         <div class="row" id="states">
-          <div class="col-md-4 col-sm-4 mapControls1">
+        <hr/>
+          <table class="statesTable">
+            <tbody>
+            <tr>
+                <td>
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuSt1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <span id="dropdown-title-data-map1">Dataset</span>
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu" id="dropdown-menu-data1" aria-labelledby="dropdownMenuSt1">
+                        <li class="dropdown-header">Health</li>
+                        <li><a href="#">Mental Health</a></li>
+                        <li><a href="#">Kindergarden Immunization Records</a></li>
+                        <li><a href="#">Age 13-19 Immunization Records</a></li>
+                      </ul>
+                    </div>
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuSt1Vals" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <span id="dropdown-title-color-map1">Color Value</span>
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu dropdown-menu-vals1" aria-labelledby="dropdownMenuSt1Vals">
+
+                      </ul>
+                    </div>
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuSt1Vals" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <span id="dropdown-title-year-map1">Year</span>
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu dropdown-menu-years1" aria-labelledby="dropdownMenuSt1Vals">
+
+                      </ul>
+                    </div>
+                    <svg id="map1" height="500" width="600"></svg>
+                </td>
+                <td>
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuSt2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <span id="dropdown-title-data-map2">Dataset</span>
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu" id="dropdown-menu-data2" aria-labelledby="dropdownMenuSt2">
+                        <li class="dropdown-header">Health</li>
+                        <li><a href="#">Mental Health</a></li>
+                        <li><a href="#">Kindergarden Immunization Records</a></li>
+                        <li><a href="#">Age 13-19 Immunization Records</a></li>
+                      </ul>
+                    </div>
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuSt1Vals" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <span id="dropdown-title-color-map2">Color Value</span>
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu dropdown-menu-vals2" aria-labelledby="dropdownMenuSt2Vals">
+
+                      </ul>
+                    </div>
+                    <div class="dropdown">
+                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenuSt1Vals" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        <span id="dropdown-title-year-map2">Year</span>
+                        <span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu dropdown-menu-years2" aria-labelledby="dropdownMenuSt1Vals">
+
+                      </ul>
+                    </div>
+                    <svg id="map2" height="500" width="600"></svg>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+          <!-- <div class="col-md-4 col-sm-4 mapControls1">
           </div>
           <div class="col-md-8 col-sm-8 map1">
           </div>
@@ -94,7 +163,7 @@
           </div>
           <div class="col-md-8 col-sm-8 map2">
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
@@ -107,7 +176,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.4.2/angular-ui-router.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/satellizer/0.14.1/satellizer.js"></script>
 
-  <!-- VISUALIZATION -->
+  <!-- EXTERNAL DEP VISUALIZATION -->
   <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
   <script src="http://d3js.org/topojson.v1.min.js"></script>
   <script src="https://d3js.org/d3-queue.v2.min.js"></script>
@@ -115,6 +184,9 @@
 
   <!-- VIZ CODE -->
   <script type="text/javascript" src="assets/js/node.js"></script>
+  <script type="text/javascript" src="assets/js/selectFormat.js"></script>
+  <script type="text/javascript" src="assets/js/nodeCreate.js"></script>
+  <script type="text/javascript" src="assets/js/mapCreate.js"></script>
 
   <!-- APPLICATION CODE -->
   <script src="/app.js"></script>
@@ -132,9 +204,6 @@
       }, 1000)
     })
   </script>
-
-  <script type="text/javascript" src="assets/js/selectFormat.js"></script>
-  <script type="text/javascript" src="assets/js/nodeCreate.js"></script>
 
 </body>
 </html>

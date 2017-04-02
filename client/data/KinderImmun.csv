@@ -11,7 +11,6 @@ Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_V
 2011,12,Florida,225532,100,Census,?92.6,?92.6,?92.6,?92.6,NA,?92.6
 2011,13,Georgia,143065,1.877,2-stage Cluster Sample,96.717,96.616,96.717,96.717,NA,96.616
 2011,15,Hawaii,19443,7.746,2-stage Cluster Sample,NA,NA,NA,NA,NA,NReq
-2011,0,HP 2020 Target,NA,NA,NA,95,95,95,95,NA,95
 2011,16,Idaho,22762,100,Census,89.601,89.214,89,92.329,NA,85.797
 2011,17,Illinois,163311,100,Census,96.17,97.331,96.43,NReq,97.966,NReq
 2011,18,Indiana,83416,67.543,Voluntary Response,90.412,93.302,90.2,93.19,NA,91.902
@@ -44,7 +43,6 @@ Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_V
 2011,46,South Dakota,12127,100,Census,97.155,97.411,97.477,95.432,NA,95.489
 2011,47,Tennessee,83950,99.914,Census,?97.3,?97.3,?97.3,?97.3,NA,?97.3
 2011,48,Texas,388178,100,Census,99.252,99.308,99.3,99.657,NA,99.159
-2011,0,U.S. Median,NA,NA,NA,95.9,94.8,95.5,96.6,97.1,92.9
 2011,49,Utah,53800,100,Census,98.113,97.998,97.651,99.117,99.5,NReq
 2011,50,Vermont,6548,100,Census,92.731,92.929,92.715,95.556,NA,90.257
 2011,51,Virginia,101121,4.345,2-stage Cluster Sample,93.026,92.956,98.627,92.69,NA,90.609
@@ -64,7 +62,6 @@ Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_V
 2012,12,Florida,234628,100,Census,NA,?92.1 ,?92.1,NA,NA,?92.1
 2012,13,Georgia,142732,2.373679343,2-stage Cluster Sample,NA,?95.1,?95.1,NA,NA,?95.1
 2012,15,Hawaii,20104,6.660366096,2-stage Cluster Sample,NA,NA,NA,NA,NA,NReq
-2012,0,HP 2020 Target,NA,NA,NA,NA,95,95,NA,NA,95
 2012,16,Idaho,23888,100,Census,NA,88.4,88.3,NA,NA,86.6
 2012,17,Illinois,166884,100,Census,NA,95.5,94.6,NA,96.6,NReq
 2012,18,Indiana,86983,83.38640884,Voluntary Response,NA,95.4,90.1,NA,NA,93.9
@@ -97,7 +94,6 @@ Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_V
 2012,46,South Dakota,12468,100,Census,NA,97.9,97.7,NA,NA,96
 2012,47,Tennessee,85801,96.95458095,Census,NA,?94.5,?94.5,NA,NA,?94.5
 2012,48,Texas,414688,96.58104406,Census,NA,97.5,97.3,NA,NA,97.2
-2012,0,U.S. Median,NA,NA,NA,NA,94.5,95.1,NA,96.6,93.8
 2012,49,Utah,54605,100,Census,NA,96.3,97.8,NA,99.6,NReq
 2012,50,Vermont,6792,100,Census,NA,92.8,92.6,NA,NA,90.1
 2012,51,Virginia,104826,4.196477973,2-stage Cluster Sample,NA,93.1,98.5,NA,NA,91.2
@@ -117,7 +113,6 @@ Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_V
 2013,12,Florida,233797,100,Census,NA,?93.2,?93.2,NA,NA,?93.2
 2013,13,Georgia,143988,100,Census,NA,?94.0,?94.0,NA,NA,?94.0
 2013,15,Hawaii,20056,5.355005983,Stratified  2-stage cluster sample,NA,NA,NA,NA,NA,NReq
-2013,0,HP 2020 Target,NA,NA,NA,NA,95,95,NA,NA,95
 2013,16,Idaho,23934,100,Census,NA,88.2,88,NA,NA,86.5
 2013,17,Illinois,163316,100,Census,NA,94.7,95,NA,96.6,NReq
 2013,18,Indiana,87193,70.34509651,Voluntary response,NA,92.9,81.8,NA,NA,90.2
@@ -150,7 +145,6 @@ Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_V
 2013,46,South Dakota,12566,100,Census,NA,96.6,96.7,NA,NA,95.3
 2013,47,Tennessee,80212,99.8341894,Census,NA,?94.9,?94.9,NA,NA,?94.9
 2013,48,Texas,409255,97.06955321,Census,NA,97.5,97.2,NA,NA,97.2
-2013,0,U.S. Median ,NA,NA,NA,NA,94.7,95,NA,96.6,93.2
 2013,49,Utah,54779,100,Census,NA,98.5,98.1,NA,99.6,NReq
 2013,50,Vermont,6771,100,Census,NA,91.2,92,NA,NA,89.4
 2013,51,Virginia,105692,4.056125345,2-stage cluster  sample,NA,93.1,98.3,NA,NA,91.3
@@ -170,7 +164,6 @@ Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_V
 2014,12,Florida,228982,100,Census,NA,?93.3,?93.3,NA,NA,?93.3
 2014,13,Georgia,139471,100,Census,NA,?94.0 ,?94.0,NA,NA,?94.0
 2014,15,Hawaii,20085,5.6,Stratified 2-stage cluster sample,NA,NA,NA,NA,NA,NReq
-2014,0,HP 2020 Target,NA,NA,NA,NA,95,95,NA,NA,95
 2014,16,Idaho,22968,100,Census,NA,89.5,89.4,NA,NA,88.4
 2014,17,Illinois,156942,100,Census,NA,94.7,94.9,NA,NA,95.3
 2014,18,Indiana,85477,70.1,Voluntary response,NA,89.3,92.7,NA,NA,90.1
@@ -203,7 +196,6 @@ Year,Id,State,Total_Kindergarten_Population,Percent_Surveyed,Survey_Type,Polio_V
 2014,46,South Dakota,12008,100,Census,NA,97.1,97.2,NA,NA,96.8
 2014,47,Tennessee,78276,100,Census,NA,?95.1,?95.1,NA,NA,?95.1
 2014,48,Texas,406099,98.3,"Census (public), Voluntary response (private)",NA,97.4,97.2,NA,NA,97
-2014,0,U.S. Median,NA,NA,NA,NA,94,94.2,NA,95.2,93.6
 2014,49,Utah,50916,100,Census,NA,94,93.8,NA,97.2,NReq
 2014,50,Vermont,6277,100,Census,NA,92.7,93.2,NA,NA,90.5
 2014,51,Virginia,103821,4.1,Stratified 2-stage cluster sample,NA,93.4,97.4,NA,NA,90.4

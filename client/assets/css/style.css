@@ -73,3 +73,8 @@ body {
   border-radius: 3px;
   overflow-y: scroll;
 }
+
+
+.statesTable {
+  display: inline-block;
+}
