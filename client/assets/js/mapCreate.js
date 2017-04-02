@@ -71,11 +71,11 @@ var parseMH = function(data) {
 var svg1 = d3.select("#map1")
 var svg2 = d3.select("#map2")
 
-var percentScale = function(attr, domain) {
-  // var domain = d3.extent(data, function(d) {
-  //     return d[attr]
-  //   })
-  return d3.scale.linear().domain(domain).range(["#EDE3DE", "#edf8b1", "#ff0000"])
+var percentScale = function(attr, data) {
+  var domain = d3.extent(data, function(d) {
+      return d[attr]
+    })
+  return d3.scale.linear().domain(domain).range(['#7f7fff', '#4c4cff', '#0000FF'])
 }
 
 var updateMap1ColorYear = function(attr, domain, year, statePaths, data) {
@@ -106,11 +106,16 @@ var updateMap1ColorYear = function(attr, domain, year, statePaths, data) {
       })
 }
 
-var updateMap1ColorNoYear = function(attr, domain, statePaths, data) {
-  var domain = d3.extent(data, function(d) {
-    return d[attr]
-  })
-  var scale = percentScale(attr, domain)
+var updateMap1ColorNoYear = function(attr, statePaths, data) {
+  var scale = percentScale(attr, data)
+  statePaths.selectAll("path")
+    .transition(500)
+    .style("fill",
+      function(state) {
+        var stateData = data.filter(function(d) { return d.Id == state.id })
+        if(stateData.length == 0) {return 0}
+        return scale(stateData[0][attr])
+      })
 }
 
 
@@ -162,7 +167,7 @@ d3_queue.queue()
             })
         }
         else {
-          updateMap1ColorNoYear(color_var, domain, statePaths1, rawMH)
+          updateMap1ColorNoYear(color_var, statePaths1, processHM)
         }
       })
     })
@@ -184,7 +189,7 @@ d3_queue.queue()
             })
         }
         else {
-          updateMap1ColorNoYear(color_var, domain, statePaths2, rawMH)
+          updateMap1ColorNoYear(color_var, statePaths2, processHM)
         }
       })
     })
